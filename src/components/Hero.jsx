@@ -7,7 +7,7 @@ const Hero = () => {
   return (
     <div className='pt-20'>
     {/* Hero */}
-      <header className="mx-auto max-w-7xl px-6 pb-24 pt-12 md:pt-16">
+      <header className="mx-auto max-w-7xl px-6 pb-10 pt-12 md:pt-16">
         <div className="grid items-center gap-16 lg:grid-cols-2">
           <div>
             <div className="mb-6 inline-flex items-center gap-2 rounded-full bg-[#5B4BFF]/10 px-3 py-1 text-xs font-bold uppercase tracking-wide text-[#7C3AED]">

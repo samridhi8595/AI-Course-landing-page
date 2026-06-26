@@ -4,24 +4,6 @@ import avatarMarcus from "../assets/avatar-marcus.jpg";
 
 export { heroImage };
 
-export const curriculum = [
-  {
-    title: "The Foundations",
-    body: "Understand how LLMs actually work.",
-    accent: "bg-blue-500",
-  },
-  {
-    title: "Advanced Prompting",
-    body: "Learn Prompt Engineering from beginner to advanced.",
-    accent: "bg-pink-500",
-  },
-  {
-    title: "Image & Video Generation",
-    body: "Master Midjourney, Runway and AI creativity.",
-    accent: "bg-green-500",
-  },
-];
-
 export const testimonials = [
   {
     quote:
