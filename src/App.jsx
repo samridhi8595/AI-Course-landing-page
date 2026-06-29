@@ -2,16 +2,21 @@ import React from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Curriculum from './components/Curriculum'
+import Testimonial from './components/Testimonial'
+import Pricing from './components/Pricing'
 
 const App = () => {
   return (
-    <div className='bg-[#fcfbf8] flex min-h-screen items-center justify-center'>
-         
-        <Navbar/>
+       <>
+       <Navbar/>
         <Hero/>
         <Curriculum/>
+        <Testimonial/>
+        <Pricing/>
+        </>    
+        
       
-    </div>
+    
   )
 }
 
